@@ -1,12 +1,52 @@
-# React + Vite
+# Avanti E-commerce Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Avanti Platform Screenshot](./preview.jpg) <!-- Adicione uma imagem real do projeto -->
 
-Currently, two official plugins are available:
+Plataforma de e-commerce empresarial desenvolvida com arquitetura moderna para demonstração de competências em desenvolvimento front-end de alto nível.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Índice
+1. [Visão Técnica](#visão-técnica)
+2. [Arquitetura do Sistema](#arquitetura-do-sistema)
+3. [Recursos Principais](#recursos-principais)
+4. [Instalação e Execução](#instalação-e-execução)
+5. [Diferenciais Técnicos](#diferenciais-técnicos)
+6. [Contribuição](#contribuição)
+7. [Licença](#licença)
+8. [Considerações Finais](#considerações-finais)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Visão Técnica
+
+### Stack Principal
+- **Front-end:**
+  - HTML5 Semântico
+  - CSS3 com Pré-processadores (Variáveis CSS nativas)
+  - JavaScript ES6+
+  - Bootstrap 5.3.0
+  - Swiper.js para carrosséis
+
+- **Padrões de Qualidade:**
+  - WCAG 2.1 para acessibilidade
+  - SEO On-Page otimizado
+  - Performance Core Web Vitals
+
+### Dependências
+- Font Awesome 6.4.0
+- Bootstrap Icons
+- Google Fonts
+
+---
+
+## Arquitetura do Sistema
+
+```plaintext
+Exercicio da AVANTI/
+│   ├── css/
+│   │   └── style.css       
+│   └── js/
+│       └── script.js       
+├── index.html              
+└── README.md              
