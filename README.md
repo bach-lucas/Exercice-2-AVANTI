@@ -6,8 +6,6 @@
 
 Uma aplicação moderna para explorar perfis do GitHub com sistema de temas personalizáveis e filtros avançados.
 
-![Demonstração da Aplicação](./preview.png)
-
 ## ✨ Funcionalidades Principais
 
 - **Busca em Tempo Real** de perfis do GitHub
