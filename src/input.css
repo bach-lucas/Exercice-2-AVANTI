@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Animações customizadas */
+@layer utilities {
+    .animate-gradient-x {
+        background-size: 200% 200%;
+        animation: gradient-x 5s ease infinite;
+    }
+}
+
+/* Suporte para temas */
+
+:root.dark {
+    color-scheme: dark;
+}
+
+:root.solarized {
+    color-scheme: light;
+}
