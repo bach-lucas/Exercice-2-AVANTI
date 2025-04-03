@@ -1,23 +1,6 @@
 # Avanti E-commerce Platform
 
-![Avanti Platform Screenshot](./![image](https://github.com/user-attachments/assets/9e14b9a4-9897-4fad-ace7-fd04115f4fa0)
-) <!-- Adicione uma imagem real do projeto -->
-
 Plataforma de e-commerce empresarial desenvolvida com arquitetura moderna para demonstração de competências em desenvolvimento front-end de alto nível.
-
----
-
-## Índice
-1. [Visão Técnica](#visão-técnica)
-2. [Arquitetura do Sistema](#arquitetura-do-sistema)
-3. [Recursos Principais](#recursos-principais)
-4. [Instalação e Execução](#instalação-e-execução)
-5. [Diferenciais Técnicos](#diferenciais-técnicos)
-6. [Contribuição](#contribuição)
-7. [Licença](#licença)
-8. [Considerações Finais](#considerações-finais)
-
----
 
 ## Visão Técnica
 
