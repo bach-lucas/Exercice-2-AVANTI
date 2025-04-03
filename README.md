@@ -1,6 +1,7 @@
 # Avanti E-commerce Platform
 
-![Avanti Platform Screenshot](./preview.jpg) <!-- Adicione uma imagem real do projeto -->
+![Avanti Platform Screenshot](./![image](https://github.com/user-attachments/assets/9e14b9a4-9897-4fad-ace7-fd04115f4fa0)
+) <!-- Adicione uma imagem real do projeto -->
 
 Plataforma de e-commerce empresarial desenvolvida com arquitetura moderna para demonstração de competências em desenvolvimento front-end de alto nível.
 
